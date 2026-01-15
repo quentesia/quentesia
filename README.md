@@ -70,6 +70,23 @@ _~~Because I can~~_ Because it's more fun to spend 3 hours automating a 10-minut
 
 <!-- START PAST PROJECTS -->
 
+> ### [GUOQ Compiler Benchmarking](https://github.com/quentesia/guoq)
+>
+> Testing which quantum compiler actually performs best for different workloads
+>
+> **Tech:** Python, Qiskit, IBM Quantum, IonQ, Rigetti, GUOQ, TKET, PyZX
+>
+> _Quantum computing class introduced me to GUOQ, our university's circuit compiler. Got curious: how does it stack up against industry tools? Forked it and ran exhaustive benchmarks against TKET and PyZX across IBM, IonQ, and Rigetti hardware with 5 circuit categories. GUOQ dominated gate error rates, but each compiler had sweet spots—physics simulations favored GUOQ's unitary synthesis approach, while PyZX excelled at arithmetic circuits with graph-based rewrites. Used this data to identify exactly where GUOQ's optimization strategy could be pushed further._
+>
+> ***Result**: GUOQ won on error rates for physics simulations and VQA circuits, but PyZX's graph-based approach dominated arithmetic/logic workloads—compiler choice matters as much as the algorithm itself.*
+>
+> ✧ 3-compiler comparison across 4 quantum platforms  
+> ✧ Created specific circuits for testing different workloads  
+> ✧ Circuit-specific optimization trade-off analysis  
+> ✧ Mapped improvement opportunities for GUOQ's rewrite rules
+
 <!-- END PAST PROJECTS -->
 
 #
+
+_If you made it here, check out my [art page](https://artstation.com/quentesia) as well!_
