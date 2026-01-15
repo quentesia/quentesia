@@ -33,16 +33,43 @@ _~~Because I can~~_ Because it's more fun to spend 3 hours automating a 10-minut
 
 <!-- START CURRENT PROJECTS -->
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/quentesia/Distributed-ML-Training-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=quentesia&repo=Distributed-ML-Training-Platform&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+> ### [Distributed ML Training Platform](https://github.com/quentesia/Distributed-ML-Training-Platform)
+>
+> Scalable asynchronous ML training system processing 10K batches/day
+>
+> **Tech:** Python, FastAPI, RabbitMQ, Celery, Redis, PyTorch, Docker
+>
+> _Had 4 days to finish an ML project. Training was impossible on my laptop. Spent 2 days building distributed infrastructure instead. Made the deadline with a day to spare. Building the system was more fun than the project anyway._
+>
+> ✧ 50% latency reduction via Redis caching  
+> ✧ 5K concurrent tasks with fault tolerance  
+> ✧ Containerized AWS deployment
+
+#
+
+> ### Agentic Dependency Manager _(Currently Private)_
+>
+> AI-powered dependency upgrade system that autonomously analyzes, reasons about, and applies package updates
+>
+> **Tech:** Python, LangChain, OpenAI API, uv
+>
+> _Tired of manual dependency hell and breaking changes. Building an agent that autonomously checks all possible upgrade combinations, provides concrete reasoning for each change, predicts potential issues, and safely applies updates. Currently Python-only but planning multi-language support._
+>
+> ✧ Autonomous upgrade analysis with reasoning  
+> ✧ Supports requirements.txt, poetry, uv and conda environments  
+> ✧ Breaking change prediction and mitigation  
+> ✧ Safe rollback on failure
+
+#
 
 <!-- END CURRENT PROJECTS -->
+
+#
+
+### Past Projects
+
+<!-- START PAST PROJECTS -->
+
+<!-- END PAST PROJECTS -->
 
 #
