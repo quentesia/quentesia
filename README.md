@@ -51,7 +51,7 @@ _~~Because I can~~_ Because it's more fun to spend 3 hours automating a 10-minut
 > ✧ 5K concurrent tasks with fault tolerance  
 > ✧ Containerized AWS deployment
 
-> ### Agentic Dependency Manager _(Currently Private)_
+> ### Anvil - Agentic Dependency Manager _(Currently Private)_
 >
 > AI-powered dependency upgrade system that autonomously analyzes, reasons about, and applies package updates
 >
