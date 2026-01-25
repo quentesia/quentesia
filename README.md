@@ -8,6 +8,8 @@ I enjoy building systems and automating tasks to make my life easier.
 
 _~~Because I can~~_ Because it's more fun to spend 3 hours automating a 10-minute task than to do it manually.
 
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-46a2f1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
