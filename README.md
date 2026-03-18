@@ -56,6 +56,19 @@ _~~Because I can~~_ Because it's more fun to spend 3 hours automating a 10-minut
 > ✧ Breaking change prediction and mitigation  
 > ✧ Safe rollback on failure
 
+> ### [yoinker - Terminal Clipboard Manager](https://github.com/quentesia/yoinker)
+>
+> A terminal clipboard manager daemon for Linux (X11/Wayland)
+>
+> **Tech:** Rust, ratatui, Unix sockets, systemd
+>
+> _Clipboard managers feel clunky or heavy. Built a lightweight daemon that watches the clipboard, stores history with fuzzy search, and integrates natively into Neovim—all over a Unix socket with no external dependencies. TUI picker, GUI popup, shell completions, and atomic crash-safe persistence included._
+>
+> ✧ Daemon with IPC over Unix domain socket (newline-delimited JSON)
+> ✧ TUI picker with fuzzy search, pinning, and relative timestamps
+> ✧ Native Neovim plugin using libuv socket communication
+> ✧ GUI picker triggerable via global keybind
+
 > ### [Distributed ML Training Platform](https://github.com/quentesia/Distributed-ML-Training-Platform)
 >
 > Scalable asynchronous ML training system processing 10K batches/day
